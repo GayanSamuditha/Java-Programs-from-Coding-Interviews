@@ -16,7 +16,6 @@ Emptying the ArrayList, you can use clear() method to remove all elements of Arr
 Copying all the elements of LinkedHashSet (non-duplicate elements) to the ArrayList. 
 
 
-Read more: https://www.java67.com/2015/03/how-to-remove-duplicates-from-arraylist.html#ixzz6Mc4HjwTs
 In this example, you can see we have created an ArrayList and added numbers into it, all prime numbers. We added '7' twice, so that it become duplicate. Now we print the ArrayList and you can see that it contains number 7 twice.
 How to remove duplicates from ArrayList in Java
 
